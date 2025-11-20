@@ -2750,7 +2750,7 @@ __metadata:
     prettier: 2.8.8
     react: 19.1.1
     react-native: 0.82.1
-    react-native-blur-view: "https://github.com/kirgudkov/react-native-blur-view.git"
+    react-native-blur-view: "git+ssh://git@github.com:LeoMello07/react-native-blur-view.git"
     react-native-safe-area-context: ^5.5.2
     react-test-renderer: 19.1.1
     typescript: ^5.8.3
@@ -4239,8 +4239,8 @@ __metadata:
   linkType: hard
 
 "eslint-plugin-jest@npm:^29.0.1":
-  version: 29.1.0
-  resolution: "eslint-plugin-jest@npm:29.1.0"
+  version: 29.2.0
+  resolution: "eslint-plugin-jest@npm:29.2.0"
   dependencies:
     "@typescript-eslint/utils": ^8.0.0
   peerDependencies:
@@ -4252,7 +4252,7 @@ __metadata:
       optional: true
     jest:
       optional: true
-  checksum: e66e7e52a35c50307de366166e1e2979cb12356e6033e426008b1bd9b37a466c0856552a6b6c188b3cc6a20790fcd8ea16071f0147fbaed0f68ee3737290c7e0
+  checksum: 5a67ecda0181e916462320e352825ae959bf9698e7d0acc64c482ba1d2367c27ccb4741a5d28626317856f4fc7452cd9bec83cf8389edf19f054b9bdd716d920
   languageName: node
   linkType: hard
 
@@ -7552,13 +7552,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-blur-view@https://github.com/kirgudkov/react-native-blur-view.git":
+"react-native-blur-view@git+ssh://git@github.com:LeoMello07/react-native-blur-view.git":
   version: 0.1.0
-  resolution: "react-native-blur-view@https://github.com/kirgudkov/react-native-blur-view.git#commit=416462098348c80076c36cf69c50cd06f31d303b"
+  resolution: "react-native-blur-view@git+ssh://git@github.com:LeoMello07/react-native-blur-view.git#commit=750c4e01114928ac7ad6adaf4fffeddcb77ad919"
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: fbc0d2127841498abd58fee7db06315765ba12470249b02d24fdb7516daaa5ddb40fe06b7f1a76f9116becf282da6430c85a6f54101daf4faa7dd37287b77f74
+  checksum: cdcbefffde8dd44aa5aed715c9e8e074b10626d2250f9e9b949c64aec9f922d7416065898400d18d2e0228d6cf1e4e4546d96c8398831514cf8e39206fd9fc60
   languageName: node
   linkType: hard
 
